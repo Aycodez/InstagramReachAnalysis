@@ -1,6 +1,6 @@
 # Instagram Reach Analysis Project
 
-![Instagram Reach Analysis](https://www.freepik.com/free-vector/instagram-icon_954290.html)
+![Instagram Reach Analysis]
 
 ## Overview
 
