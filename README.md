@@ -1,7 +1,5 @@
 # Instagram Reach Analysis Project
 
-![Instagram Reach Analysis]
-
 ## Overview
 
 This project focuses on analyzing the factors influencing the reach of Instagram posts. By exploring various features and their relationships, we aim to gain insights into the dynamics of post reach on the platform. Additionally, a GradientBoostRegressor model is trained with the data to predict the reach of an Instagram post based on the identified features.
